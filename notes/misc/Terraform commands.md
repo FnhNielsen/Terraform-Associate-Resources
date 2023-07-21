@@ -71,3 +71,6 @@ TODO:
 - |`terraform force-unlock LOCK_ID`|removes the lock on the state for the current configuration|
 - |`terraform login`|obtain and save an API token for Terraform Cloud|
 - |`terraform logout`|remove credentials stored by terraform login|
+
+Sources:
+- [1] https://k21academy.com/terraform-iac/terraform-cheat-sheet/ 
