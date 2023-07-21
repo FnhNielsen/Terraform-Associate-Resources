@@ -11,7 +11,7 @@ TODO:
 |**Initialize infrastructure**|   |
 - |`terraform init`|Initialize a working directory|
 - |`terraform init -input=true`|Ask for input if necessary|
-- |terraform init -lock=false|Disable locking of state files during state-related operations|
+- |`terraform init -lock=false`|Disable locking of state files during state-related operations|
 
 |**Get**|   |
 - |`terraform get`|downloads and update modules mentioned in the root module|
