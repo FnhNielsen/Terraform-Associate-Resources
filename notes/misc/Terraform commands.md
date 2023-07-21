@@ -1,6 +1,10 @@
 #Terraform 
 ## Terraform Commands Sheet
 
+TODO:
+- [  ] Check if commands are active or deprecated
+- [  ] Update document as we go
+
 |**Show version**|   |   
 - |`terraform –version`|Shows terraform version installed|
 
