@@ -23,7 +23,7 @@ TODO:
 - |`terraform plan -destroy`|Outputs a destroy plan|
 - |`terraform apply`|Executes changes to the actual environment|
 - |`terraform apply –auto-approve`|Apply changes without being prompted to enter ”yes”|
-- |`terraform apply -refresh=true|`Update the state for each resource prior to planning and applying|
+- |`terraform apply -refresh=true`|Update the state for each resource prior to planning and applying|
 - |`terraform apply -input=false`|Ask for input for variables if not directly set|
 - |`terraform apply -var ‘foo=bar’`|Set a variable in the Terraform configuration, can be used multiple times|
 - |`terraform apply -var-file=foo`|Specify a file that contains key/value pairs for variable values|
